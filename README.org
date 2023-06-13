@@ -1,0 +1,10 @@
+* s-http-server
+
+A Common Lisp HTTP Server.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/svenvc/s-http-server.git   |
+| commit  | 552973a  |
+| systems | s-http-server |
+|---------+-------------------------------------------|
+
